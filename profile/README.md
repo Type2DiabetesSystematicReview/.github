@@ -1,1 +1,3 @@
 This organisation collects together all of the github repositories for a systematic review conducted into the treatment of type 2 diabetes trials using sodium glucose cotransporter 2 inhibitors, glucagon-like peptide-1 receptor analogues and dipeptidyl peptidase-4 inhibitors. The protocol for the systematic review is published [here](https://bmjopen.bmj.com/content/12/10/e066491).
+
+[This figure](project_structure.drawio.png) gives an overview of the simple structure of the projects in this github organisation.
